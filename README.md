@@ -1,4 +1,4 @@
-# apple-emoji-for-linux
+# IOS-emoji-for-linux
 
 Based on latest 16.4 ios emojis
 
