@@ -1,5 +1,12 @@
-# apple-emoji-linux
+# apple-emoji-for-linux
+
 Based on latest 16.4 ios emojis
+
+
+## Disclaimer
+
+The code provided is for educational purposes only. Apple is a trademark of Apple Inc., registered in the U.S. and other countries. 
+
 
 ![...>.<_ can't_resist...](./Screenshot_20230321_010548.png)
 
@@ -7,6 +14,5 @@ Based on latest 16.4 ios emojis
 ```sh
 $  git clone https://github.com/Van-tesh/Apple-Emoji.git
 cd Apple-Emoji
-sudo ./install.sh ## You might be prompted for password.
-```
-
+sudo ./install.sh 
+```             
