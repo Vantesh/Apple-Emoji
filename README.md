@@ -2,6 +2,8 @@
 
 Based on latest 16.4 ios emojis
 
+tested on Garuda linux 
+
 
 ## Disclaimer
 
