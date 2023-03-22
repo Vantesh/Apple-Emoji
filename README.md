@@ -2,7 +2,7 @@
 
 Based on latest 16.4 ios emojis
 
-tested on Garuda linux 
+tested on <a href="https://www.google.com/url?sa=t&source=web&rct=j&url=https://garudalinux.org/downloads.html&ved=2ahUKEwj02-Sxvu_9AhVGQ6QEHc6WCgQQFnoECAoQAQ&usg=AOvVaw0lFq6z7w-VNXqHzKpoK6fv">Garuda</a> linux
 
 
 ## Disclaimer
