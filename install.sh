@@ -3,4 +3,4 @@
 
 printf "Installing ... "
 sudo cp -rf etc usr /
-printf "Done!\n"
+printf "Done! Enjoy 😊\n"
