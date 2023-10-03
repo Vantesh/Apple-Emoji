@@ -14,7 +14,7 @@ The code provided is for educational purposes only. Apple is a trademark of Appl
 
 ## Installation
 ```
-git clone https://github.com/Van-tesh/Apple-Emoji.git
+git clone https://github.com/Vantesh/Apple-Emoji.git
 ```
 ```
 cd Apple-Emoji
